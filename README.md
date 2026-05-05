@@ -2,7 +2,7 @@
 ### A DS 4002 Case Study by Flavien Paul Moise
 
 ## Hook Document & Rubric
-The hook document for this case study can be found file named "Hook Document.pdf", and the rubric is in "Case Study Rubric.pdf"
+The hook document for this case study can be found in the file named "Hook Document.pdf", and the rubric is in "Case Study Rubric.pdf"
 ## Data
 The data is not included in this Github repository as it is more than a terabyte, which goes way beyond Github's storage limits. Instead, instructions for how to access and download the data can be found in "Materials/Data Acquisition.pdf". 
 ## Reference Materials
